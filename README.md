@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+See https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme for more details
+-->
