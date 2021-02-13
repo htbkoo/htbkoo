@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-This is htbkoo and I am a software engineer who love learning things 🎶
+This is htbkoo and I am a software engineer who love learning new things 🎶
 
 #### 💻 Currently, I am using these 
 
