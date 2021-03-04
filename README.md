@@ -19,6 +19,20 @@ This is htbkoo and I am a software engineer who love learning new things 🎶
     - [`Generative Adversarial Networks (GANs)`](https://www.coursera.org/specializations/generative-adversarial-networks-gans) offered by [DeepLearning.AI](https://www.coursera.org/browse/data-science?facets=partnerMultiTag%3ADeepLearning.AI%2CcategoryMultiTag%3Adata-science) at [Coursera](https://www.coursera.org/)
 - 📫 How to reach me: Find [my contact at my home page](https://htbkoo.github.io/personal-portfolio/#contact)
 
+---
+
+![htbkoo-github-stats](https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&theme=react&hide_rank=true)
+
+![alt-stats](https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&hide_title=true&theme=cobalt)
+
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htbkoo&theme=react&count_private=true&layout=compact)
+
+<!-- reference: https://github.com/anuraghazra/github-readme-stats -->
+
+![trophies](https://github-profile-trophy.vercel.app/?username=htbkoo&theme=nord)
+
+<!-- reference: https://github.com/ryo-ma/github-profile-trophy -->
+
 <!--
 **htbkoo/htbkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
