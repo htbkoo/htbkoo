@@ -20,6 +20,18 @@ This is htbkoo and I am a software engineer who love learning new things 🎶
 - 📫 How to reach me: Find [my contact at my home page](https://htbkoo.github.io/personal-portfolio/#contact)
 
 ---
+
+<div style="display: flex; flex-direction: row; align-items: start">
+<img src="https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&theme=react&hide=contribs" alt="htbkoo-github-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htbkoo&theme=react&count_private=true&layout=compact&langs_count=5" alt="htbkoo-most-used-languages" />
+</div>
+
+<!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&theme=react" alt="htbkoo-github-stats" />
+</p>
+-->
+
 <!--
 ![htbkoo-github-stats](https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&theme=react)
 
@@ -32,8 +44,15 @@ This is htbkoo and I am a software engineer who love learning new things 🎶
 
 <!-- reference: https://github.com/anuraghazra/github-readme-stats -->
 
-![trophies](https://github-profile-trophy.vercel.app/?username=htbkoo&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A)
+---
+<!--
+<div style="padding-left: 12px;padding-top: 12px">
+<img src="https://github-profile-trophy.vercel.app/?username=htbkoo&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=32" alt="htbkoo-trophies"/>
+</div>
 
+-->
+
+![trophies](https://github-profile-trophy.vercel.app/?username=htbkoo&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A)
 <!-- reference: https://github.com/ryo-ma/github-profile-trophy -->
 
 <!--
