@@ -20,12 +20,15 @@ This is htbkoo and I am a software engineer who love learning new things 🎶
 - 📫 How to reach me: Find [my contact at my home page](https://htbkoo.github.io/personal-portfolio/#contact)
 
 ---
+<!--
+![htbkoo-github-stats](https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&theme=react)
 
 ![htbkoo-github-stats](https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&theme=react&hide_rank=true)
 
 ![alt-stats](https://github-readme-stats.vercel.app/api?username=htbkoo&count_private=true&show_icons=true&hide_title=true&theme=cobalt)
 
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htbkoo&theme=react&count_private=true&layout=compact)
+-->
 
 <!-- reference: https://github.com/anuraghazra/github-readme-stats -->
 
