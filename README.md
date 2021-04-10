@@ -32,7 +32,7 @@ This is htbkoo and I am a software engineer who love learning new things 🎶
 
 <!-- reference: https://github.com/anuraghazra/github-readme-stats -->
 
-![trophies](https://github-profile-trophy.vercel.app/?username=htbkoo&theme=nord)
+![trophies](https://github-profile-trophy.vercel.app/?username=htbkoo&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 <!-- reference: https://github.com/ryo-ma/github-profile-trophy -->
 
