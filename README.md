@@ -16,7 +16,7 @@ This is htbkoo and I am a software engineer who love learning new things 🎶
 - 🌱 I’m currently learning more about `deep learning and neural networks`, e.g.
     - [`AI for Medicine`](https://www.coursera.org/specializations/ai-for-medicine) offered by [DeepLearning.AI](https://www.coursera.org/browse/data-science?facets=partnerMultiTag%3ADeepLearning.AI%2CcategoryMultiTag%3Adata-science) at [Coursera](https://www.coursera.org/)
     - [`Generative Adversarial Networks (GANs)`](https://www.coursera.org/specializations/generative-adversarial-networks-gans) offered by [DeepLearning.AI](https://www.coursera.org/browse/data-science?facets=partnerMultiTag%3ADeepLearning.AI%2CcategoryMultiTag%3Adata-science) at [Coursera](https://www.coursera.org/)
-- 📫 How to reach me: Find [my contact at my home page](https://htbkoo.github.io/personal-portfolio/?utm_source=github_profile#contact)
+- 📫 How to reach me: Find [my contact at my home page](https://htbkoo.github.io/personal-portfolio/?utm_source=github_htbkoo_readme#contact)
 
 <!--
 **htbkoo/htbkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
